@@ -1,0 +1,6 @@
+pandas
+numpy
+pyjanitor
+lets-plot
+openpyxl
+jupyter
